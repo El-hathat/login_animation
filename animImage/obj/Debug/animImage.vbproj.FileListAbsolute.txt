@@ -1,0 +1,21 @@
+C:\Users\lenovo\AppData\Local\Temporary Projects\animImage\bin\Debug\animImage.exe
+C:\Users\lenovo\AppData\Local\Temporary Projects\animImage\bin\Debug\animImage.pdb
+C:\Users\lenovo\AppData\Local\Temporary Projects\animImage\bin\Debug\animImage.xml
+C:\Users\lenovo\AppData\Local\Temporary Projects\animImage\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\AppData\Local\Temporary Projects\animImage\obj\Debug\animImage.Form1.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\animImage\obj\Debug\animImage.Resources.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\animImage\obj\Debug\animImage.vbproj.GenerateResource.Cache
+C:\Users\lenovo\AppData\Local\Temporary Projects\animImage\obj\Debug\animImage.exe
+C:\Users\lenovo\AppData\Local\Temporary Projects\animImage\obj\Debug\animImage.xml
+C:\Users\lenovo\AppData\Local\Temporary Projects\animImage\obj\Debug\animImage.pdb
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\animImage\animImage\obj\Debug\animImage.exe
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\animImage\animImage\obj\Debug\animImage.xml
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\animImage\animImage\obj\Debug\animImage.pdb
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\animImage\animImage\bin\Debug\animImage.exe
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\animImage\animImage\bin\Debug\animImage.pdb
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\animImage\animImage\bin\Debug\animImage.xml
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\animImage\animImage\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\animImage\animImage\obj\Debug\animImage.Form1.resources
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\animImage\animImage\obj\Debug\animImage.Resources.resources
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\animImage\animImage\obj\Debug\animImage.vbproj.GenerateResource.Cache
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\animImage\animImage\obj\Debug\animImage.Form2.resources
